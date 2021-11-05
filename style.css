@@ -9,3 +9,10 @@ body{
     color: rgb(52, 165, 52);
 }
 
+#pontuacao-game{
+    background-color: blue;
+    align-items: center;
+    margin: 5px;
+    padding:30px;
+    border-radius: 50%;
+    }
